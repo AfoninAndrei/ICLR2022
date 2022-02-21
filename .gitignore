@@ -1,2 +1,2 @@
-*.ibc
-*.o
+data/
+src/__pycache__/
