@@ -1,0 +1,1 @@
+{"Seed": 0, "Data": {"Dataset": "CIFAR10", "Batch_size": 256, "Eval_batch_size": 2048}, "Model": "VGG-9", "Optmizer": {"Name": "Adam", "lr": 0.001, "weight_decay": 0, "Loss": "CE", "Epochs": 200}, "Scheme": "Centralized"}
