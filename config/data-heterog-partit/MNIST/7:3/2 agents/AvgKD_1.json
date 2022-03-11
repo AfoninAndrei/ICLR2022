@@ -1,0 +1,1 @@
+{"Seed": 0, "Data": {"Dataset": "MNIST", "Alpha": 1, "Batch_size": 512, "Eval_batch_size": 4096}, "Model": "Net", "Optmizer": {"Name": "Adam", "lr": 0.001, "weight_decay": 3e-4, "Loss": "CE", "Epochs": 20}, "Scheme": "AvgKD", "Clients": 2, "Communications": 20}
